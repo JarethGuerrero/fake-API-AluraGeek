@@ -3,7 +3,7 @@
 A template for deploying [JSON Server](https://github.com/typicode/json-server) on [Vercel](https://vercel.com), allowing you to run a fake REST API online 🐣!
 
 Demo from this repository: 
-https://alurageek-api.vercel.app/
+https://fake-api-alura-geek-ten.vercel.app/
 ### How to use (resume)
 
 1. Click "**Use this template**" or clone this repository.
